@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+**/.vs/
+*.user
+
+client_secrets.json
+bin/
+obj/
+.vs/
+*.user
